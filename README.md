@@ -1,2 +1,2 @@
 # github-tutorial
-tutor - Syed Faizanuddin
+tutor <br> - Syed Faizanuddin
